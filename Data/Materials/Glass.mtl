@@ -1,0 +1,3 @@
+diffuse Glass.dds 1
+shader PerPixel
+alphablend 1
